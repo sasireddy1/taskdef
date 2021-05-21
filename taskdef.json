@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "name": "sample-website",
-            "image": "mywebapp:latest public.ecr.aws/q9m3l8n8/mywebapp:latest",
+            "image": "public.ecr.aws/q9m3l8n8/mywebapp:latest",
             "essential": true,
             "portMappings": [
                 {
